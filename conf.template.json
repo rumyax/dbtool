@@ -1,0 +1,18 @@
+{
+    "jobs": 16,
+    "default": {
+        "host": "<default-host>",
+        "port": 9876,
+        "user": "<default-user>",
+        "name": "<default-database>"
+    },
+    "db": {
+        "<key>": {
+            "host": "localhost",
+            "port": 5432,
+            "user": "postgres",
+            "password": "<p@$$W0Rd>",
+            "name": "<database>"
+        }
+    }
+}
